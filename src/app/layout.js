@@ -18,7 +18,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 const APP_NAME = "Cuynime";
 const APP_DEFAULT_TITLE = "cuynime - Watch Anime 😂";
-const APP_DESCRIPTION = "Explore a vast collection of anime on bertoo.pro, your go-to destination for streaming the latest and classic anime series. Immerse yourself in captivating storylines, vibrant animation, and diverse genres. Discover a world of entertainment at your fingertips with bertoo.pro, where every episode is an adventure.";
+const APP_DESCRIPTION = "Explore a vast collection of anime on Cuynime, your go-to destination for streaming the latest and classic anime series. Immerse yourself in captivating storylines, vibrant animation, and diverse genres. Discover a world of entertainment at your fingertips with Cuynime, where every episode is an adventure.";
 
 export const metadata = {
   metadataBase: new URL('https://cuynime.vercel.com'),
