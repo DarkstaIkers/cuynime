@@ -1,8 +1,8 @@
 {
     "id":"1",
-    "name": "bertoo.pro",
-    "short_name": "bertoo.pro",
-    "description": "Watch Anime Online for free without ads on bertoo.pro",
+    "name": "Cuynime",
+    "short_name": "Cuynime",
+    "description": "Watch Anime Online for free without ads on Cuynime",
     "icons": [
         {
             "src": "/icon-192x192.png",
@@ -30,7 +30,7 @@
         }
     ],
     "theme_color": "#000000",
-    "background_color": "#0b0101",
+    "background_color": "#031a0a",
     "start_url": "/",
     "display": "standalone",
     "orientation": "portrait"
