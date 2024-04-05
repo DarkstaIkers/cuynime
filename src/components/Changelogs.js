@@ -37,7 +37,7 @@ const releaseLogs = [
     //     ],
     // },
     {
-        version: "V2.1.4",
+        version: "V2.2.4 (Alpha)",
         changes: [
             "Added Profile Page",
             "Will be adding Anilist wrapped to show more info",
