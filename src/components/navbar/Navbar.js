@@ -284,7 +284,7 @@ function Navbarcomponent({ home = false }) {
                             isDisabled={status === 'loading'}
                             as="button"
                             className="transition-transform w-[27px] h-[27px] backdrop-blur-sm"
-                            color="secondary"
+                            color="primary-400"
                             name={data?.user?.name}
                             size="sm"
                             src={data?.user?.image?.large || data?.user?.image?.medium || "https://telegra.ph/file/77803dc56cad4979ec4e2.jpg"}
